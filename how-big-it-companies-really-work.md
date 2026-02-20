@@ -85,5 +85,5 @@ Closing Thought
 Big IT companies are built on more than code and tools.
  They are built on communication, collaboration, and clarity of purpose.
 At Funksoft, we believe understanding how great teams work is the first step toward building better software, together.
----
+
 Source: https://funksoft.no/bloggen/77-how-big-it-companies-really-work
